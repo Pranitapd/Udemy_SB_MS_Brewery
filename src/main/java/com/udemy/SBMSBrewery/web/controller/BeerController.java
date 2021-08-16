@@ -1,4 +1,4 @@
-package com.udemy.SBMSBrewery.controller;
+package com.udemy.SBMSBrewery.web.controller;
 
 import com.udemy.SBMSBrewery.services.BeerService;
 import com.udemy.SBMSBrewery.web.model.BeerDto;
